@@ -10,14 +10,14 @@
 	first_name = "Eyner"
 	last_name = "Acosta"
     currently_learning = [
-"python" , "NodeJS"
-]
+	"python" , "NodeJS"
+	]
     age = "19 years"
 	hobbies = [
-				'Music',
-				'Paint',
-			 	'Gaming',
-				'Science fiction movies'
+			'Music',
+			'Paint',
+		 	'Gaming',
+			'Science fiction movies'
 			]
 	
 	def getCity():
