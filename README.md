@@ -5,20 +5,23 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+  class Developer:
+    username = 'EynerDev'
+	first_name = "Eyner"
+	last_name = "Acosta"
+    currently_learning = [
+"python" , "NodeJS"
+]
+    age = "19 years"
 	hobbies = [
 				'Music',
-                         'Chilling',
+				'Paint',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Science fiction movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Barranquilla_Colombia()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
