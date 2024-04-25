@@ -1,4 +1,4 @@
-<h1 align="center> Hi there, I'm Eyner 👋 </h1>
+## Hi there, I'm Eyner 👋
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
