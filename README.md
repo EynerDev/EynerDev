@@ -74,6 +74,12 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 </p>
 
 ## Software and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular"/>
+  </a>
+</p>
 <p>
 	<a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
