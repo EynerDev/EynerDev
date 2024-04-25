@@ -45,8 +45,9 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
  
 ## Github Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=EynerDev&&show_icons=true&count_private=true&theme=github_dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EynerDev&theme=blueberry_duo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EynerDev&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EynerDev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EynerDev&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EynerDev&layout=compact&theme=github_dark"/>|
 
 
 ## Browsers
