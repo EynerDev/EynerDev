@@ -65,11 +65,11 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
   </a>
 </p>
 
-## Software, Operating Systems and Tools
+## Software and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord, windows"/>
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord,windows"/>
   </a>
 </p>
 
