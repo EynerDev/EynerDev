@@ -2,7 +2,7 @@
 
 ## Hi There, I'M Eyner 👋
 
-![Github Banner](https://github.com/EynerDev/banner/blob/main/Eyner%20Acosta%20(1).png)
+![Github Banner](https://github.com/EynerDev/banner/blob/main/Eyner%20Acosta(1).png)
 
 ## About me 👨‍💻
 Soy un Programador Backend comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
