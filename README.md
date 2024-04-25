@@ -1,7 +1,8 @@
 
-<h1 align="center">
+<h1 align="center" style="font-size: 32px; font-weight: bold;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There,+I'm+Eyner;Jr+Back-end+Developer;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </h1>
+
 
 ![Github Banner](https://github.com/EynerDev/banner/blob/main/Eyner%20Acosta%20(1).png)
 
