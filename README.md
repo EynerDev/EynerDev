@@ -8,7 +8,6 @@
 </h1>
 
 ## About me 👨‍💻
-
 Soy un Programador Backend comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
 
 
