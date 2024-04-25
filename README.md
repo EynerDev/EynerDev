@@ -46,7 +46,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,js,django,md,py," />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,js,django,md,py,flask" />
   </a>
 </p>
 
