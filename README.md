@@ -67,7 +67,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
-## Databases and Cloud hosting
+## Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
