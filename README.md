@@ -54,7 +54,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 ## Operating Systems and Browsers
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows />
+    <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb, mysql, sqlite />
+    <img src="https://skillicons.dev/icons?i=mongodb, mysql, sqlite "/>
   </a>
 </p>
 
