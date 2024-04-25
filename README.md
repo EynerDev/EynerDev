@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hola,+Soy+Eyner;Jr+Back-end+Developer;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There,+I'm+Eyner;Jr+Back-end+Developer;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </h1>
 
 ![Github Banner](https://github.com/eyner1003/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
