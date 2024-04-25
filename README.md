@@ -45,19 +45,9 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
  
 ## Github Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=EynerDev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EynerDev&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EynerDev&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=EynerDev&&show_icons=true&count_private=true&theme=github_dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EynerDev&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EynerDev&layout=compact&theme=github_dark"/>
 
-
-
-
-## Operating Systems and Browsers
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-</p>
 
 ## Browsers
 <p align= "center">
@@ -74,11 +64,11 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
   </a>
 </p>
 
-## Software and Tools
+## Software, Operating Systems and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord"/>
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord, windows"/>
   </a>
 </p>
 
