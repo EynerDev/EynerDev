@@ -44,7 +44,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 </p>
 
  
-## Github Stats
+## Github Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=eyner1003&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyner1003&theme=blueberry_duo"/>
 |---|---|
