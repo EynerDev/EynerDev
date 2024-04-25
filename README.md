@@ -35,7 +35,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 	
  ```
 
-## Programming Languages and libreries
+## Programming Languages and libreries 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -84,7 +84,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 </p>
 
 
-## Connect with Me
+## Connect with Me 🤝🏻
 
 
 <p align="center">
