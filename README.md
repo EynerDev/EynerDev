@@ -1,6 +1,6 @@
 ## Hi there, I'm Eyner 👋
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/eyner1003/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 ## About me
 <p align="center">
