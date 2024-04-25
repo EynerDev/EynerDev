@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There,+I'm+Eyner;Jr+Back-end+Developer;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </h1>
 
-![Github Banner](https://github.com/eyner1003/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
+![Github Banner](https://github.com/EynerDev/banner/blob/main/Eyner%20Acosta.png)
 
 ## About me
 Soy un Programador Backend comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
