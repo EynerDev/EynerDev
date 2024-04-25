@@ -42,11 +42,11 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyner1003&layout=compact&theme=github_dark"/>|
 
-## Programming Languages
+## Programming Languages and libreries
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,php,discord,postgres,figma,github,js,linux,md,mongodb,mysql,nodejs,postman,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,node,js,django,sql,md,py," />
   </a>
 </p>
 
