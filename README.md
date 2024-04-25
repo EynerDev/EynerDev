@@ -6,7 +6,7 @@
 ![Github Banner](https://github.com/eyner1003/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 ## About me
-Soy un técnico en programación de software comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
+Soy un Programador Backend comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
 
 
 
