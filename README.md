@@ -1,13 +1,14 @@
 ## Hi there, I'm Eyner 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hola,+Soy+Eyner;Jr+Back-end+Developer;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 ![Github Banner](https://github.com/eyner1003/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 ## About me
 Soy un técnico en programación de software comprometido con mi trabajo y con excelentes habilidades de comunicación. Tengo conocimientos en lenguajes y herramientas utilizados para el desarrollo de software y aplicaciones web como Python, Git,  PHP, JavaScript,  SQL, Postman, Serverless 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Jr+Back-end+Developer+;Full+Stack+Web+Development+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+
 
  ```python
   class WhoAmI:
