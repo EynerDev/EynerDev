@@ -15,7 +15,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 	first_name = "Eyner"
 	last_name = "Acosta"
     currently_learning = [
-	"python" , "NodeJS"
+	"python" , "PHP"
 	]
     age = "19 years"
 	hobbies = [
