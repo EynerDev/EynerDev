@@ -69,7 +69,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord,windows,azure,jquery,ajax"/>
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord,windows,azure,jquery"/>
   </a>
 </p>
 
