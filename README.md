@@ -38,7 +38,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,md,py,flask" />
+    <img src="https://skillicons.dev/icons?i=php,md,py,flask" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite "/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite "/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Soy un Programador Backend comprometido con mi trabajo y con excelentes habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,angular,bootstrap,css,html,discord,windows,azure,jquery"/>
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,postman,github,git,figma,windows,azure"/>
   </a>
 </p>
 
